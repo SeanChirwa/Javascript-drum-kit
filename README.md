@@ -1,1 +1,0 @@
-Here is my first solo project for a front end career path course that i am taking from Scrimba
